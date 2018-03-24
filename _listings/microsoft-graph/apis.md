@@ -18,8 +18,8 @@ tags:
 - Files
 - Email
 - Contact
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -32,7 +32,7 @@ apis:
   tags: Taxis
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axistitle-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axis-patch.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
