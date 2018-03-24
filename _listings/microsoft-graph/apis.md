@@ -32,7 +32,7 @@ apis:
   tags: Taxis
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axis-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axistitle-patch.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
