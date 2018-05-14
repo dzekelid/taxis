@@ -1,7 +1,7 @@
 {
   "info": {
     "name": "Microsoft Graph API Update Chartaxistitle",
-    "_postman_id": "cd257f63-2a7b-4a51-a06e-bb64d7a1d4f2",
+    "_postman_id": "fde48914-9af3-4735-a128-730bd62cd4aa",
     "description": "Update chartaxistitle Update the properties of chartaxistitle object.",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/"
   },
@@ -10,7 +10,7 @@
       "name": "chartaxistitle",
       "item": [
         {
-          "id": "9a3f5963-9134-4ff5-b37c-cf254f2a78a3",
+          "id": "1c91632a-5fc0-43d2-94ab-d88e4868ab8b",
           "name": "UpdateChartaxistitle",
           "request": {
             "url": "http://graph.microsoft.com/axistitle",
@@ -32,7 +32,7 @@
             {
               "code": 200,
               "name": "Response_200",
-              "id": "29b689e6-2bbe-434d-9b14-57377b80416a"
+              "id": "d16d6a9d-018d-4d40-bb18-5e8be6ef3f03"
             }
           ]
         }
