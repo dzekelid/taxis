@@ -33,17 +33,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axistitle-patch.md
-- name: Microsoft Graph API Update Chartaxis
-  description: Update chartaxis Update the properties of chartaxis object.
+- name: Microsoft Graph API Update Chartaxistitle
+  description: Update chartaxistitle Update the properties of chartaxistitle object.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Taxis
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axis-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axistitle-patch.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axis-patch-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/taxis/master/_listings/microsoft-graph/axistitle-patch-postman.md
 x-common:
 - type: x-change-loge
   url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
