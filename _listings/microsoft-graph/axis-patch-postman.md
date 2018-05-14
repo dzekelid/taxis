@@ -1,7 +1,7 @@
 {
   "info": {
     "name": "Microsoft Graph API Update Chartaxis",
-    "_postman_id": "788959d7-93a1-48d1-ad36-d50a2cb23ef5",
+    "_postman_id": "5807bf91-d470-4ce4-8f53-9bc09ca66278",
     "description": "Update chartaxis Update the properties of chartaxis object.",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/"
   },
@@ -10,7 +10,7 @@
       "name": "chartaxis",
       "item": [
         {
-          "id": "e9066060-a281-4cad-9f55-0a21936c9f6a",
+          "id": "1d6cf30d-bc1e-491e-bba8-5dfba9a42257",
           "name": "UpdateChartaxis",
           "request": {
             "url": "http://graph.microsoft.com/axis",
@@ -32,7 +32,7 @@
             {
               "code": 200,
               "name": "Response_200",
-              "id": "0a2705e9-4d74-474a-9d81-67dff59ddf0f"
+              "id": "476126f3-a777-47d4-ab2d-b0b3a52186f8"
             }
           ]
         }
